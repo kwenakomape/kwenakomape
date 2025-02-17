@@ -6,7 +6,7 @@
 
 - 🔭 Check out My current latest project [MENTKNOW](https://webweavers-9570.onrender.com/)
 
-- 🌱 I’m currently learning: **React**
+- 🌱 I’m currently learning: **Typescrript**
 
 - 📫 How to reach me: **kwenakomape2@gmail.com**
 
