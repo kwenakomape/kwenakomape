@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwenakomape&label=Profile%20views&color=0e75b6&style=flat" alt="kwenakomape" /> </p>
 
-- 🔭 Check out My current latest project [MENTKNOW](https://webweavers-9570.onrender.com/)
-
-- 🌱 I’m currently learning: **Typescrript**
 
 - 📫 How to reach me: **kwenakomape2@gmail.com**
 
